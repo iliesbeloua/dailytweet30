@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>admin13 &#8211; admin13&#039;s Blog!</title>
+	<atom:link href="/author/admin13/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 10 Aug 2021 12:47:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>next back page 2 not found &#8211; ( page break single post )</title>
+		<link>/try-next-back-if-its-work/</link>
+		
+		<dc:creator><![CDATA[admin13]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 11:31:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=14</guid>
+
+					<description><![CDATA[What sort of budget should I start with for sports arbitrage trading? Well, this is your decision.&#160;Depending on your level of experience we would suggest free sport arbitrage betting with the free bets available from online fixed odds bookmakers.&#160;You can increase your budget with your level of confidence.&#160;The winnings with sport arbitrage trading can be &#8230;<p class="read-more"> <a class="" href="/try-next-back-if-its-work/"> <span class="screen-reader-text">next back page 2 not found &#8211; ( page break single post )</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p><strong>What sort of budget should I start with for sports arbitrage trading?</strong></p>
+
+
+
+<p>Well, this is your decision.&nbsp;Depending on your level of experience we would suggest free sport arbitrage betting with the free bets available from online fixed odds bookmakers.&nbsp;You can increase your budget with your level of confidence.&nbsp;The winnings with sport arbitrage trading can be added to your bank.&nbsp;If you decided to invest a percentage of you bank each time your stake and you profit will increase accordingly.</p>
+
+
+
+<p><strong>How do bookmakers lose their money?</strong></p>
+
+
+
+<p>Sports arbitrage trading is all about spotting inconsistencies between different bookmakers&#8217; prices that regularly exist. &nbsp;As a result of mistakes by fixed odds bookmakers an under round occurs.&nbsp;An under round forms the basis of a sports arbitrage bet.&nbsp;Simply the under round is when the total number of probabilities priced by the odds on that event are below 100%.&nbsp;A typical under round is where you would have to invest £96 to get the bookmaker to pay you £100. &nbsp;Using this example a sports arbitrage bet would give you a return of 4%. You can expect a return of around 4% for sports arbitrage bets.&nbsp; Sometimes you will get more than 4%.</p>
+
+
+
+<p>Sports arbitrage bets win regardless of the outcome of the event without any need for expert knowledge of sports betting or sports.&nbsp;This is one of the reasons sports arbitrage betting has a popular following.</p>
+
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin13]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 10:30:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
